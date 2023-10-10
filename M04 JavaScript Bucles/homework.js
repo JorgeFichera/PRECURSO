@@ -61,7 +61,7 @@ function saludo(idioma) {
  } else {
    return "Hola!"}
 }
-
+////////////////ADFK
 var resultado = saludo ("mandarin");
 console.log (resultado);
 
