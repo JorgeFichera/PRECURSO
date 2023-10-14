@@ -26,6 +26,7 @@ console.log (nuevaMultiplicacion)
 // Resuelve el siguiente problema matemático.
 var nuevoModulo = 21 % 5 === 1;
 console.log (nuevoModulo)
+
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
    nuevoString,
